@@ -6,7 +6,7 @@ const Navbar = () => {
         <h1 className='w-full text-3xl font-bold text-[#00df9a] ml-24 ' > LOGO </h1>
         <ul className='flex justify-between items-center space-x-2 mr-24 ' >
             <li className='p-2 text-lg ' > 
-                <a href='red' > red </a>
+                <a href='#red' > red </a>
              </li>
             <li className='p-2 text-lg ' > 
                 <a href=' #blue '  > blue </a>
