@@ -1,6 +1,5 @@
 import React from 'react'
 import {useState} from "react"
-import Hamburger from './Hamburger'
 const Navbar = () => {
 
     const [isOpen, setIsOpen] = useState (false)
@@ -29,7 +28,7 @@ const Navbar = () => {
 
         {/* burger button */}
         <div 
-        className="  fixed m-auto top-6 cursor-pointer " 
+        className="  fixed m-auto top-6 right-6 cursor-pointer " 
         onClick={ openMenu }
          >
             <div className=  { isOpen ? "rotate-45 ease-in-out duration-300 translate-y-1.5 translate-x-1 bg-slate-50 w-6 h-0.5 rounded-sm m-1 " : " ease-in-out duration-300 bg-slate-50 w-6 h-0.5 rounded-sm m-1 " } ></div>
