@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/navbar_react_colors/static/css/main.0dbedd41.css",
+    "main.js": "/navbar_react_colors/static/js/main.15aa0892.js",
+    "static/js/787.f311455c.chunk.js": "/navbar_react_colors/static/js/787.f311455c.chunk.js",
+    "index.html": "/navbar_react_colors/index.html",
+    "main.0dbedd41.css.map": "/navbar_react_colors/static/css/main.0dbedd41.css.map",
+    "main.15aa0892.js.map": "/navbar_react_colors/static/js/main.15aa0892.js.map",
+    "787.f311455c.chunk.js.map": "/navbar_react_colors/static/js/787.f311455c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dbedd41.css",
+    "static/js/main.15aa0892.js"
+  ]
+}
